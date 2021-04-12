@@ -1,0 +1,12 @@
+name: max
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - ipywidgets
+  - notebook
+  - numpy
+  - pandas
+  - pip
+  - scipy
