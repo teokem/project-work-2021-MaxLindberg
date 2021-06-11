@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="19.906025cm"
    height="19.958391cm"
    viewBox="0 0 199.06026 199.58392"
    version="1.1"
    id="svg82"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
-   sodipodi:docname="ratio-maker2-schematic.svg">
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="ratio-maker2-schematic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs76">
     <rect
@@ -994,25 +994,26 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0358684"
-     inkscape:cx="254.0424"
-     inkscape:cy="352.26821"
+     inkscape:cx="-178.11143"
+     inkscape:cy="352.36136"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1044"
-     inkscape:window-x="797"
-     inkscape:window-y="2276"
+     inkscape:window-width="3840"
+     inkscape:window-height="2086"
+     inkscape:window-x="1600"
+     inkscape:window-y="74"
      inkscape:window-maximized="1"
      fit-margin-top="0.5"
      fit-margin-left="0.3"
      fit-margin-right="0.3"
      fit-margin-bottom="0.3"
-     units="cm" />
+     units="cm"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata79">
     <rdf:RDF>
@@ -1021,7 +1022,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1052,20 +1052,26 @@
     <text
        xml:space="preserve"
        id="text112"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect114);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect114);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="5.4453125"
-         y="29.102021"><tspan
-           style="shape-inside:url(#rect114)">N</tspan><tspan
-           style="font-size:65%;baseline-shift:super">14</tspan></tspan></text>
+         y="29.102021"
+         id="tspan642"><tspan
+           style="shape-inside:url(#rect114)"
+           id="tspan638">N</tspan><tspan
+           style="font-size:65%;baseline-shift:super"
+           id="tspan640">14</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text112-6"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect114-3);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect114-3);fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(0.25050144,110.28257)"><tspan
          x="5.4453125"
-         y="29.102021"><tspan
-           style="shape-inside:url(#rect114-3)">N</tspan><tspan
-           style="font-size:65%;baseline-shift:super">15</tspan></tspan></text>
+         y="29.102021"
+         id="tspan648"><tspan
+           style="shape-inside:url(#rect114-3)"
+           id="tspan644">N</tspan><tspan
+           style="font-size:65%;baseline-shift:super"
+           id="tspan646">15</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.202797;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.202797, 0.202797;stroke-dashoffset:0;stroke-opacity:1"
        d="M 58.961232,97.698607 58.907886,78.228944"
@@ -1074,11 +1080,13 @@
     <text
        xml:space="preserve"
        id="text989"
-       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect991);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect991);fill:#000000;fill-opacity:1;stroke:none"
        transform="rotate(17.698199,-92.574787,68.988216)"><tspan
          x="62.789062"
-         y="53.407614"><tspan
-           style="shape-inside:url(#rect991)">Theoretical peak</tspan></tspan></text>
+         y="53.407614"
+         id="tspan652"><tspan
+           style="shape-inside:url(#rect991)"
+           id="tspan650">Theoretical peak</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
        d="m 53.821703,69.062623 19.906694,0.0206"
@@ -1086,11 +1094,11 @@
     <text
        xml:space="preserve"
        id="text1421"
-       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1423);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1423);fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(2.9602,16.598991)"><tspan
          x="56.876953"
-         y="51.0888"><tspan
-           style="font-size:2.82222px">1 Da</tspan></tspan></text>
+         y="51.0888"
+         id="tspan654">1 Da</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart-7);marker-end:url(#Arrow1Mend-3)"
        d="m 77.826934,83.485977 19.906694,0.0206"
@@ -1098,19 +1106,21 @@
     <text
        xml:space="preserve"
        id="text1421-9"
-       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1423-6);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1423-6);fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(26.965431,31.022345)"><tspan
          x="56.876953"
-         y="51.0888"><tspan
-           style="font-size:2.82222px">1 Da</tspan></tspan></text>
+         y="51.0888"
+         id="tspan656">1 Da</tspan></text>
     <text
        xml:space="preserve"
        id="text1599"
-       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1601);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1601);fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(17.548363,-42.154542)"><tspan
          x="20.472656"
-         y="59.699838"><tspan
-           style="shape-inside:url(#rect1601)">Main peak</tspan></tspan></text>
+         y="59.699838"
+         id="tspan660"><tspan
+           style="shape-inside:url(#rect1601)"
+           id="tspan658">Main peak</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.202797;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.202797, 0.202797;stroke-dashoffset:0;stroke-opacity:1"
        d="M 70.397763,190.96197 70.344417,171.4923"
@@ -1119,11 +1129,13 @@
     <text
        xml:space="preserve"
        id="text989-7"
-       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect991-1);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect991-1);fill:#000000;fill-opacity:1;stroke:none"
        transform="rotate(17.698199,-386.38087,152.34943)"><tspan
          x="62.789062"
-         y="53.407614"><tspan
-           style="shape-inside:url(#rect991-1)">Theoretical peak</tspan></tspan></text>
+         y="53.407614"
+         id="tspan664"><tspan
+           style="shape-inside:url(#rect991-1)"
+           id="tspan662">Theoretical peak</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart-2);marker-end:url(#Arrow1Mend-0)"
        d="m 65.258234,162.32598 19.906694,0.0206"
@@ -1131,11 +1143,11 @@
     <text
        xml:space="preserve"
        id="text1421-2"
-       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1423-3);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1423-3);fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(14.396731,109.86235)"><tspan
          x="56.876953"
-         y="51.0888"><tspan
-           style="font-size:2.82222px">1 Da</tspan></tspan></text>
+         y="51.0888"
+         id="tspan666">1 Da</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.261805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart-7-6);marker-end:url(#Arrow1Mend-3-6)"
        d="m 89.263147,179.89217 18.223283,0.022"
@@ -1143,19 +1155,21 @@
     <text
        xml:space="preserve"
        id="text1421-9-2"
-       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1423-6-6);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1423-6-6);fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(38.401962,127.42925)"><tspan
          x="56.876953"
-         y="51.0888"><tspan
-           style="font-size:2.82222px">1 Da</tspan></tspan></text>
+         y="51.0888"
+         id="tspan668">1 Da</tspan></text>
     <text
        xml:space="preserve"
        id="text1599-3"
-       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1601-1);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1601-1);fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(28.911575,73.608039)"><tspan
          x="20.472656"
-         y="59.699838"><tspan
-           style="shape-inside:url(#rect1601-1)">Main peak</tspan></tspan></text>
+         y="59.699838"
+         id="tspan672"><tspan
+           style="shape-inside:url(#rect1601-1)"
+           id="tspan670">Main peak</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart-2-7);marker-end:url(#Arrow1Mend-0-9)"
        d="m 40.584425,173.59575 19.906694,0.0206"
@@ -1163,11 +1177,11 @@
     <text
        xml:space="preserve"
        id="text1421-2-9"
-       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1423-3-2);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1423-3-2);fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(-10.277078,121.13212)"><tspan
          x="56.876953"
-         y="51.0888"><tspan
-           style="font-size:2.82222px">1 Da</tspan></tspan></text>
+         y="51.0888"
+         id="tspan674">1 Da</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 122.66419,154.33223 c 34.4237,-33.64855 40.84608,-39.66552 40.84608,-39.66552"
