@@ -1,5 +1,7 @@
 # Calculation of N14 A𝛽 concentration using N15 labeled A𝛽 and MALDI-MS
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4695226.svg)](https://doi.org/10.5281/zenodo.4695226)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4756766.svg)](https://doi.org/10.5281/zenodo.4756766)
+
 
 This was done as a part of the jupyter course at Lunds university spring 2021.
 ## Instructions
